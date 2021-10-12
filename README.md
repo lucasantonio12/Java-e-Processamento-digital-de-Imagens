@@ -1,0 +1,4 @@
+# Java-e-Processamento-digital-de-Imagens
+TCC
+
+CODIGO USADO PARA O TCC, AO QUAL EXISTEM VARIOS PLUGINS DA AREA DE SEMENTES.
